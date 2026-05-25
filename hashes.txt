@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nobody Knows
+
+This log tracks the cryptographic history and versioning for the song **Nobody Knows** (nobody-knows).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:48:38.800941 | `v1` | `2845ace32df3f76d7d41432edff68b6f292f735a6ccab59f7b3f681572bc4fc7` | `9147a72d91f0261f22ae9b39a911d942fd59d8e62841fa3bff45fd4d15a8dedd` | `2026-05-25_nobody-knows-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
