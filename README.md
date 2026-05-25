@@ -21,7 +21,7 @@
 | **Released On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nobody-knows/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Nobody Knows](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=OXnUUr1Qc3A?https://imabusayed.github.io/nobody-knows/) |
+| **Get License** | [Official Music Licensing for Nobody Knows](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=OXnUUr1Qc3A?https://imabusayed.github.io/nobody-knows/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
